@@ -28,4 +28,5 @@ conditioned on real-world datasets, our method shows state-of-
 the-art performance in news generation. Furthermore, additional
 human evaluations verify the effectiveness in controlling style
 alignment within CMWNG.
+![](fig2.jpg)
 
