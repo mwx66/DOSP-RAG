@@ -20,10 +20,11 @@ Install dependent Python libraries by running the command below.
 pip install -r requirements.txt
 ```
 ## Quick start
-When you provide your API kEY in the env file, you can use DOSP-RAG for CMWNG by running the command below
+When you provide your API kEY in the .env file, you can use DOSP-RAG for CMWNG by running the command below in the linux terminal
 
 ```
-python run main_chain.py
+python main_chain.py
 ```
+
 
 
