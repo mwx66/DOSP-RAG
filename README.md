@@ -1,6 +1,6 @@
-# DOSP_RAG1
+# DOSP-RAG
 DOSP-RAG: Semi-Parametric Retrieval-Augmented Generation via Dual-Optimization for Controllable Meteorological Warning News Generation
-# Abstract
+# Introduction
 Large language models (LLMs) have shown remark-
 able capabilities in natural language generation (NLG) tasks,
 like text summarization and machine translation. However, the
@@ -28,3 +28,4 @@ conditioned on real-world datasets, our method shows state-of-
 the-art performance in news generation. Furthermore, additional
 human evaluations verify the effectiveness in controlling style
 alignment within CMWNG.
+
