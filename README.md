@@ -10,5 +10,20 @@ edge. Furthermore, one-shot style learning enables the generation of trustworthy
 the inference phase. Through extensive quantitative evaluations conditioned on real-world datasets, our method shows state-of-
 the-art performance in news generation. Furthermore, additional human evaluations verify the effectiveness in controlling style
 alignment within CMWNG.
+
 ![](fig2.jpg)
+
+## Installation
+Install dependent Python libraries by running the command below.
+
+```
+pip install -r requirements.txt
+```
+## Quick start
+When you provide your API kEY in the env file, you can use DOSP-RAG for CMWNG by running the command below
+
+```
+python run main_chain.py
+```
+
 
