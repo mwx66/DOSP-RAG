@@ -1,0 +1,13 @@
+jinaai/jina-embeddings-v2-base-zh:
+分类：
+dense_precision@101 tensor([0.9060])
+hybrid_precision@101 tensor([0.9060])
+防御指南:
+dense_precision@101 tensor([0.9620])
+hybrid_precision@101 tensor([0.9620])
+标准：
+dense_precision@101 tensor([0.9238])
+hybrid_precision@101 tensor([0.9238])
+
+
+
